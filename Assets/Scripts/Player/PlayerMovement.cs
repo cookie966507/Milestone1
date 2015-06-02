@@ -7,7 +7,7 @@ namespace Assets.Scripts.Player
 	{
 		private float _moveSpeed = 5f;
 		private float _rotateSpeed = 100f;
-		private float _jumpForce = 7f;
+		private float _jumpForce = 35f;
 		private bool _grounded = true;
 		private float _maxSlope = 45f;
 		private Animator _anim;
